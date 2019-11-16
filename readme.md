@@ -1,3 +1,3 @@
 # Web blocker
 
-Add a website to the ´hosts´ file. 
+- Add a website to the ´hosts´ file. 
